@@ -1,0 +1,17 @@
+{
+  "name": "angular-pretty-checkable",
+  "version": "0.1.7",
+  "description": "Angular Pretty Checkable",
+  "main": "dist/angular-pretty-checkable.min.js",
+  "dependencies": {
+    "angular": "~1.2.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/websightnl/angular-pretty-checkable.git"
+  },
+  "license": "MIT",
+}
