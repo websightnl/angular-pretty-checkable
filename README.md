@@ -21,7 +21,7 @@ Create an angular app and inject pretty-checkable. That's about it.
 
 **bower**
 ```bash
-bower install angular-pretty-checkable
+npm i @musicdirector/angular-pretty-checkable
 ```
 
 ##Usage

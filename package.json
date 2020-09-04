@@ -7,11 +7,14 @@
     "angular": "~1.2.13"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "uglifyjs ./src/angular-pretty-checkable.js --comments --source-map --output ./dist/angular-pretty-checkable.min.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/websightnl/angular-pretty-checkable.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "uglify-js": "^3.10.3"
+  }
 }
