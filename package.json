@@ -1,5 +1,5 @@
 {
-  "name": "angular-pretty-checkable",
+  "name": "@musicdirector/angular-pretty-checkable",
   "version": "0.1.7",
   "description": "Angular Pretty Checkable",
   "main": "dist/angular-pretty-checkable.min.js",
